@@ -1,12 +1,12 @@
 {
 	"setting": {
 		"options": "Agordoj",
-		"plugin": "Plugin",
-		"builtin-plugins": "Core plugins",
-		"plugin-options": "Plugin options",
-		"folder-path-example-placeholder": "Example: folder 1/folder 2",
-		"file-path-example-placeholder": "Example: folder/note",
-		"msg-restart-required": "Changing this option requires a restart to take effect.",
+		"plugin": "Kromprogramo",
+		"builtin-plugins": "Kernaj kromprogramoj",
+		"plugin-options": "Kromprogramoj agordoj",
+		"folder-path-example-placeholder": "Ekzemplo: dosiero 1/dosiero 2",
+		"file-path-example-placeholder": "Ekzemplo: dosiero/no",
+		"msg-restart-required": "Restarto necessas por apliki ŝanĝojn je tiu agordo.",
 		"editor": {
 			"name": "Editor",
 			"section-behavior": "Behavior",
